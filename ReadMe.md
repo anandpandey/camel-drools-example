@@ -1,3 +1,8 @@
+## Continuous Integration
+
+[travis-ci.org](http://www.travis-ci.org)<br/>
+[![Build Status](https://travis-ci.org/anandpandey/camel-drools-example.svg?branch=master)](https://travis-ci.org/anandpandey/camel-drools-example)
+
 Drools-Camel Component Example
 ==============================
 
