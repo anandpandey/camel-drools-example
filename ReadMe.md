@@ -40,3 +40,6 @@ To see the results tail the Fuse ESB log
 
 You may need to edit `etc/org.ops4j.pax.url.mvn.cfg`, and add to the `org.ops4j.pax.url.mvn.repositories` property an
 entry for the FuseSource repository `http://repo.fusesource.com/nexus/content/repositories/releases/`
+
+
+## Test comment
